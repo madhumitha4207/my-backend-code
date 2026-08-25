@@ -2,3 +2,5 @@ fastapi
 uvicorn
 firebase-admin
 requests
+email-validator
+pydantic[email]
